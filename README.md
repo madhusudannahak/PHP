@@ -8,7 +8,7 @@ Installation
 Usage
 Contributing
 License
-Introduction
+Introduction  
 In this repository, you'll find PHP code covering a wide range of functionalities, including:
 
 Web development using PHP, HTML, CSS, and JavaScript.
