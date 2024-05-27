@@ -16,15 +16,14 @@
      if(isset($_POST['submit']) && isset($_POST['num1']) && isset($_POST['num2'])){
         $num1=$_POST['num1'];
         $num2=$_POST['num2'];
-
         $num1=floatval($num1);
         $num2=floatval($num2);
-
         $sum=$num1+$num2;
-
         echo "<h2>result:</h2>";
         echo "<p>Addition of Number $num1 and $num2 is: $sum</p>";
      }
     ?>
 </body>
 </html>
+
+
